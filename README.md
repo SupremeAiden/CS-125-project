@@ -1,1 +1,1 @@
-# ICS-125-project
+# CS-125-project
